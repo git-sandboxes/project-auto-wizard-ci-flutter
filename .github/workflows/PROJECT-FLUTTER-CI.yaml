@@ -71,7 +71,7 @@ permissions:
 # Project settings (edit the values below)
 env:
   # Monorepo change-detection path (set automatically at install; "." for a single repo)
-  PROJECT_PATH: "."
+  PROJECT_PATH: "app"
   # Flutter root path (relative to the repo root): "." for a single repo, "app" etc. for a monorepo - set automatically at install
   FLUTTER_PROJECT_DIR: "."
   # How env vars are passed (dart-define | dotenv) - set automatically from the install-time choice

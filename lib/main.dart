@@ -120,3 +120,5 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+void unusedLocal() { var neverUsed = 1; }
